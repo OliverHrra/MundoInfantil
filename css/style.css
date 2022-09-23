@@ -3704,7 +3704,14 @@ h6 {
 
 
   .footer-area .footer-bottom .footer-social {
-    margin-top: 15px !important; }}
+    margin-top: 15px !important; }
+}
+
+#msjError{
+  color:red;
+  margin-top: -3%;
+}
+
 /*---------------------------------------------------- */
 
 /*# sourceMappingURL=style.css.map */
